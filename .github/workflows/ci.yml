@@ -50,8 +50,3 @@ jobs:
         working-directory: ./mkdocs-config
         run: mkdocs gh-deploy --force
 
-      # Runs a set of commands using the runners shell
-      - name: End the action
-        run: |
-          echo The action is complete,
-          echo hopefully it worked.
