@@ -45,6 +45,10 @@ jobs:
         working-directory: ./mkdocs-config
         run: python3 -m pip install -r requirements.txt
 
+      - name: Install requirements
+        working-directory: ./mkdocs-config
+        run: echo "hello" 
+
       - name: Run a one-line script
         env:
           DOCS_DIR: docs
