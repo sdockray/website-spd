@@ -48,7 +48,7 @@ jobs:
       - name: Build
         env:
           DOCS_DIR: docs
-        run: mkdocs --config-file mkdocs-config/mkdocs.yml --site-dir ./public
+        run: mkdocs build --config-file mkdocs-config/mkdocs.yml --site-dir ./public
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
