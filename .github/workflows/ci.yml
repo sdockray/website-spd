@@ -3,7 +3,7 @@
 name: CI
 
 env:
-  DOCS_DIR: ../source
+  DOCS_DIR: docs
   SITE_URL: https://sdockray.github.io/website-spd
 
 # Controls when the workflow will run
@@ -28,7 +28,7 @@ jobs:
       - name: Checkout SPD content files
         uses: actions/checkout@v4
         with:
-          path: source
+          path: mkdocs-config/docs
 
       - name: Checkout SPD config files
         uses: actions/checkout@v4
