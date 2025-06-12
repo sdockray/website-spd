@@ -45,12 +45,13 @@ jobs:
         working-directory: ./mkdocs-config
         run: python3 -m pip install -r requirements.txt
 
-      - name: Install requirements
-        working-directory: ./mkdocs-config
-        run: echo "hello" 
-
-      - name: Run a one-line script
+      - name: Build
         env:
           DOCS_DIR: docs
-        run: mkdocs gh-deploy --config-file mkdocs-config/mkdocs.yml
+        run: mkdocs --config-file mkdocs-config/mkdocs.yml --site-dir ./public
 
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
