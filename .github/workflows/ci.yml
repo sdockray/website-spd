@@ -3,7 +3,7 @@
 name: CI
 
 env:
-  DOCS_DIR: /source
+  DOCS_DIR: ../source
   SITE_URL: https://sdockray.github.io/website-spd
 
 # Controls when the workflow will run
@@ -45,4 +45,7 @@ jobs:
         working-directory: ./mkdocs-config
         run: python3 -m pip install -r requirements.txt
 
+      - name: Run a one-line script
+        working-directory: ./mkdocs-config
+        run: mkdocs gh-deploy --force
 
