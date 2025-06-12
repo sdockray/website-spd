@@ -1,8 +1,0 @@
-- [Home](index.md)
-- [About](About.md)
-- [Systems](Systems/index.md)
-	- [Machine Listening](Systems/machine-listening.md)
-	- Systems/*.md
-- [Studies](Studies/index.md)
-	- Studies/*.md
-- [Index](tags.md)
