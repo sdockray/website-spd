@@ -24,17 +24,17 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - name: Checkout SPD content files
-        uses: actions/checkout@v4
-        with:
-          path: mkdocs-config/docs
-
       - name: Checkout SPD config files
         uses: actions/checkout@v4
         with:
           repository: sdockray/mkdocs-spd
           path: mkdocs-config
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout SPD content files
+        uses: actions/checkout@v4
+        with:
+          path: mkdocs-config/docs
 
       - name: Setup Python 
         uses: actions/setup-python@v5
@@ -47,6 +47,6 @@ jobs:
 
       - name: Run a one-line script
         env:
-          DOCS_DIR: mkdocs-config/docs
+          DOCS_DIR: docs
         run: mkdocs gh-deploy --config-file mkdocs-config/mkdocs.yml
 
