@@ -39,12 +39,14 @@ jobs:
       - name: Setup Python 
         uses: actions/setup-python@v5
         with:
-          python-version: 3.10
+          python-version: 3.x
 
       - name: Install requirements
         working-directory: ./mkdocs-config
         run: python3 -m pip install -r requirements.txt
 
       - name: Run a one-line script
+        env:
+          DOCS_DIR: docs
         run: mkdocs gh-deploy --config-file mkdocs-config/mkdocs.yml
 
