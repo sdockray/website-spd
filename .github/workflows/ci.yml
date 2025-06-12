@@ -47,6 +47,6 @@ jobs:
 
       - name: Run a one-line script
         env:
-          DOCS_DIR: docs
+          DOCS_DIR: mkdocs-config/docs
         run: mkdocs gh-deploy --config-file mkdocs-config/mkdocs.yml
 
