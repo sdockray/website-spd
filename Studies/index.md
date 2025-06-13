@@ -5,4 +5,5 @@ Studies are focused investigations that take diverse material forms—from essay
 - [[Studies/songs-about-fucking-suno|Songs About Fucking Suno]]
 - [[Studies/machine-listening-songbook-5-x|Machine Listening Songbook: (5-x)]]
 - [[Studies/voyce-walker|Voyce Walker]]
+- [[Studies/the-public-school-interview-david-elliott|Interview with Sean Dockray / The Public School]]
 - 
