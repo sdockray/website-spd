@@ -4,10 +4,10 @@ type: ""
 date: 2025-06-13
 display_date: "2008"
 collaborators: 
-parent: "[[Systems/the-public-school|The Public School]]"
+parent: "[[quasi-institutions/the-public-school|The Public School]]"
 tags:
   - interview
-aliases:
+aliases: 
 ---
 > This interview was conducted by David Elliott and [originally hosted on hadto.net](https://web.archive.org/web/20150601123456/http://hadto.net/writing/public-school-interview/)
 

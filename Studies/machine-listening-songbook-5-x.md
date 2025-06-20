@@ -3,13 +3,11 @@ title: Machine Listening Songbook (5-x)
 type: ""
 date: 2025-06-09
 display_date: "2024"
-collaborators:
-  - "[[people/James Parker|James Parker]]"
-  - "[[people/Joel Stern|Joel Stern]]"
-parent: "[[Systems/machine-listening|Machine Listening]]"
+parent: "[[quasi-institutions/machine-listening|Machine Listening]]"
 tags:
   - performance
 aliases: 
+credit: "Machine Listening (Sean Dockray, James Parker, Joel Stern). <br/>Live performers: Jennifer Walshe and Tomomi Adachi."
 ---
 > This page is an annotated backup of the [official documentation for this performance](https://machinelistening.exposed/site-map/works/machine-listening-songbook-songs-about-fucking-suno)
 
@@ -30,6 +28,6 @@ The songbook is a media technology. Like all songbooks, this one is open-ended. 
 The latest iteration, Songs About Fucking Suno, was originally commissioned by [SOFT CENTRE](https://www.softcentre.com.au) for performance in a library, and eventually realised at the Victorian Trades Hall with improvised vocals from the incredible [Jennifer Walshe](http://milker.org) and [Tomomi Adachi](https://www.adachitomomi.com) on 29 August 2025.
 
 
-**Presentations:**
+## Presentations
 
 - [SOFT CENTRE](https://www.softcentre.com.au): SUPERMODEL presented as part of [Now or Never Festival](https://nowornever.melbourne.vic.gov.au), 31 August 2025, Victorian Trades Hall, Naarm/Melbourne.

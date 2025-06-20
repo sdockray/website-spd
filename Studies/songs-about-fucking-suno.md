@@ -3,14 +3,13 @@ title: Songs About Fucking Suno
 type: 
 date: 2025-06-02
 display_date: "2024"
-collaborators:
-  - "[[people/James Parker|James Parker]]"
-  - "[[people/Joel Stern|Joel Stern]]"
-parent: "[[Systems/machine-listening|Machine Listening]]"
+parent: "[[quasi-institutions/machine-listening|Machine Listening]]"
 tags:
   - album
 aliases:
   - Songs About Fucking Suno
+credit: Machine Listening (Sean Dockray, James Parker, Joel Stern)
+format:
 ---
 
 

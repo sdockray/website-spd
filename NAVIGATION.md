@@ -1,8 +1,15 @@
 - [Home](index.md)
-- [About](About.md)
-- [Systems](Systems/index.md)
-	- [Machine Listening](Systems/machine-listening.md)
-	- Systems/*.md
-- [Studies](Studies/index.md)
-	- Studies/*.md
+- [About](about.md)
+- [Quasi-institutions](quasi-institutions/index.md)
+	- [Machine Listening](quasi-institutions/machine-listening.md)
+	- quasi-institutions/*.md
+- [Studies](studies/index.md)
+	- [The Politics of Falling](studies/the-politics-of-falling.md)
+	- [55 Falls / Ambient Assisted Living](studies/55-falls-ambient-assisted-living.md)
+	- [Voyce Walker](studies/voyce-walker.md)
+	- [Egocentric Perception Workshop](studies/egocentric-perception-workshop.md)
+	- [#C](studies/C.md)
+	- [Machine Listening Songbook (5-x)](studies/machine-listening-songbook-5-x.md)
+	- [Songs about Fucking Suno](studies/songs-about-fucking-suno.md)
+	- studies/*.md
 - [Index](tags.md)
