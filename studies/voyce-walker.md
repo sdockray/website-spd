@@ -12,6 +12,10 @@ aliases:
 credit: Machine Listening (Sean Dockray, James Parker, Joel Stern)
 format: Audio installation playing from 4 vintage radios
 ---
+!!! note ""
+	View the [official documentation for this project](https://machinelistening.exposed/site-map/works/voyce-walkr) on the Machine Listening website
+
+
 ![[attachments/WEB_NCM_SignalOfNoise_PPOWELL_177.JPG.jpg]]
 /// caption
 Machine Listening, Voyce Walkr, 2025, Multi-channel audio, 4 vintage radios, analogue synthesiser. Photo by Phoebe Powell, 2025.

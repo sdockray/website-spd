@@ -1,5 +1,5 @@
 - [Home](index.md)
-- [This website](about.md)
+- [About](about.md)
 - [Quasi-institutions](quasi-institutions/index.md)
 	- [Machine Listening](quasi-institutions/machine-listening.md)
 	- quasi-institutions/*.md

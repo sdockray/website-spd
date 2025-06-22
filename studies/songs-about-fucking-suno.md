@@ -11,6 +11,10 @@ aliases:
 credit: Machine Listening (Sean Dockray, James Parker, Joel Stern)
 format:
 ---
+!!! note ""
+	View the [official documentation for this project](https://machinelistening.exposed/site-map/works/machine-listening-songbook-songs-about-fucking-suno) on the Machine Listening website
+
+
 ![[attachments/SAFS.jpeg]]
 
 ## Listen

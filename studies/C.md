@@ -11,6 +11,10 @@ aliases:
 credit: Machine Listening (Sean Dockray, James Parker, Joel Stern)
 format: 4 channel video installation, 75min
 ---
+!!! note ""
+	View the [official documentation for this installation](https://machinelistening.exposed/site-map/works/c) on the Machine Listening website
+
+
 ![[attachments/ego-4d.png]]
 
 ## Overview

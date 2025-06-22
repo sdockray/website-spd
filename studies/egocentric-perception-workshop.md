@@ -3,7 +3,7 @@ title: Egocentric Perception Workshop
 type: ""
 date: 2025-06-20
 display_date: "2025"
-parent: "[[studies/C|C]]"
+parent: "[[studies/C|#C]]"
 tags:
   - workshop
   - dataset-critique
@@ -11,6 +11,9 @@ aliases:
 credit: Machine Listening (Sean Dockray, James Parker, Joel Stern)
 format: 3 hour workshop
 ---
+!!! note ""
+	View the [official documentation for this workshop](https://machinelistening.exposed/egocentric-perception-workshop) on the Machine Listening website
+
 Ego4D is a massive-scale egocentric video dataset and benchmark suite released by Facebook AI in 2021 to advance the automation of ‘egocentric perception’. This is the ‘first person’ perspective of virtual reality, robotics, smart glasses, and the Metaverse. Like all perspectives, it has to be constructed. So, Ego4D comprises 3,025 hours of daily-life activity video captured by 855 ‘unique camera wearers’ from 9 countries, and all painstakingly annotated by low-paid ‘narrators’ for machinic analysis.
 
 In this workshop, we will examine Ego4D through a curated selection of clips, read excerpts from the paper announcing it, and experiment with annotating “egocentric” videos ourselves.

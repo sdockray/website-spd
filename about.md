@@ -1,3 +1,11 @@
+---
+title: About
+modified: Friday 20th June 2025 14:10:33
+date: 
+showDate: "false"
+draft: "false"
+showPagination: "false"
+---
 ## This website
 This website is an ongoing exercise in self-documentation. It is a static site built with [mkdocs](https://www.mkdocs.org/), which is typically used to document software projects. 
 
