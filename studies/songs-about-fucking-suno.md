@@ -11,27 +11,19 @@ aliases:
 credit: Machine Listening (Sean Dockray, James Parker, Joel Stern)
 format:
 ---
+![[attachments/SAFS.jpeg]]
 
+## Listen
 
-The studio version of _Songs About Fucking Suno_ is now available on [bandcamp](https://machinelistening.bandcamp.com/album/songs-about-fucking-suno) and hosted on the usual streamers, like a virus.
+The studio version of _Songs About Fucking Suno_ is now available on [bandcamp](https://machinelistening.bandcamp.com/album/songs-about-fucking-suno) and hosted on [the usual streamers](https://open.spotify.com/album/1dNQYlhepTe0rUowArhSsK?si=aflXFvU8SrG91kJqtSp4ag) like a virus.
 
-[https://bandcamp.com/EmbeddedPlayer/album=4167667279/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/](https://bandcamp.com/EmbeddedPlayer/album=4167667279/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/)
+<div>
+<iframe src="https://bandcamp.com/EmbeddedPlayer/album=4167667279/size=large/bgcol=ffffff/linkcol=333333/minimal=true/transparent=true/" title="bandcamp.com" sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation" allowfullscreen="" loading="lazy" frameborder="0" style="width: 300px; height: 390px; ; display:inline-block"></iframe>
 
-[https://soundcloud.com/machine-listening/sets/songs-about-fucking-suno?si=9135fbd4a23f4b9f8b7cd1ea9986b81e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing](https://soundcloud.com/machine-listening/sets/songs-about-fucking-suno?si=9135fbd4a23f4b9f8b7cd1ea9986b81e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+<iframe src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F1901896975&amp;show_artwork=true" title="w.soundcloud.com" sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation" allowfullscreen="" loading="lazy" frameborder="0" style="width: 300px; height: 390px; display:inline-block"></iframe>
+</div>
 
-[An essay accompanying the album was published in December 2024 by Unsound](https://unsoundfestival.substack.com/i/145535377/songs-about-fucking-suno).
-
-*‘2024 was the year automatic music generation broke.
-
-Artists have been working with music made by generative AI systems for years, of course, but none of it was particularly popular. This is because, until 2024, most music being made with generative AI was still all about the strange and highly specific shittiness of generative AI as a medium.*
-
-_2024 is the year automatic music generation broke because it was the year making this kind of unremarkable AI generated music became widely available to the public. Suno had launched right at the end of December 2023, and Udio followed just a few months later, both to considerable hype. According to one industry report from May 2024, ‘Udio’s users are now creating ten tracks a second on the platform.’ By July, Suno was claiming to have had 12 million discreet users. ‘Suno is building a future where anyone can make great music,’ the company said.’_
-
-You could think of the album as digital liner notes in a post-liner notes age. Or maybe they’re just two perspectives on automatic music generation.
-
-[https://youtu.be/Jfb6iISein8?si=AUsS7uNh9xUI8bXl](https://youtu.be/Jfb6iISein8?si=AUsS7uNh9xUI8bXl)
-
-**Tracklist:**
+## Tracklist
 
 1. **Giant Steps** - a chorus of voice clones attempts to replicate John Coltrane’s Giant Steps, a piece often presented as an apotheosis of human creativity and complexity. For this reason, it’s also sometimes used to demonstrate computer music techniques ('Wagner harmonises giant steps’)
     
@@ -52,12 +44,23 @@ You could think of the album as digital liner notes in a post-liner notes age. O
 9. **It’s Just Not For That** - Lyrics from a podcast interview with Suno CEO Mikey Shulman. Genre prompt: Medieval Bardcore.
     
 10. **Audible Anagrams** - All possible anagrams of the word ‘audible’.
-    
 
-[https://youtu.be/iB3V6DOdZEQ?si=aOktnwd9V9CKf89P](https://youtu.be/iB3V6DOdZEQ?si=aOktnwd9V9CKf89P)
+## Liner notes
 
-[https://youtu.be/hsk_oTC8ZHs?si=ihHLZj8t6Tt-gMiF](https://youtu.be/hsk_oTC8ZHs?si=ihHLZj8t6Tt-gMiF)
+[An essay accompanying the album](https://unsoundfestival.substack.com/i/145535377/songs-about-fucking-suno) was published in December 2024 by Unsound:
 
+> ‘2024 was the year automatic music generation broke.
+> 
+> Artists have been working with music made by generative AI systems for years, of course, but none of it was particularly popular. This is because, until 2024, most music being made with generative AI was still all about the strange and highly specific shittiness of generative AI as a medium.
+>
+>2024 is the year automatic music generation broke because it was the year making this kind of unremarkable AI generated music became widely available to the public. Suno had launched right at the end of December 2023, and Udio followed just a few months later, both to considerable hype. According to one industry report from May 2024, ‘Udio’s users are now creating ten tracks a second on the platform.’ By July, Suno was claiming to have had 12 million discreet users. ‘Suno is building a future where anyone can make great music,’ the company said.’
 
+You could think of the album as digital liner notes in a post-liner notes age. Or maybe they’re just two perspectives on automatic music generation.
 
-[https://open.spotify.com/album/1dNQYlhepTe0rUowArhSsK?si=aflXFvU8SrG91kJqtSp4ag](https://open.spotify.com/album/1dNQYlhepTe0rUowArhSsK?si=aflXFvU8SrG91kJqtSp4ag)
+## Videos
+
+*Videos: Emile Zile.*
+
+- [https://youtu.be/Jfb6iISein8?si=AUsS7uNh9xUI8bXl](https://youtu.be/Jfb6iISein8?si=AUsS7uNh9xUI8bXl)
+- [https://youtu.be/iB3V6DOdZEQ?si=aOktnwd9V9CKf89P](https://youtu.be/iB3V6DOdZEQ?si=aOktnwd9V9CKf89P)
+- [https://youtu.be/hsk_oTC8ZHs?si=ihHLZj8t6Tt-gMiF](https://youtu.be/hsk_oTC8ZHs?si=ihHLZj8t6Tt-gMiF)

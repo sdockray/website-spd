@@ -17,3 +17,7 @@ This essay uses falling as a concept through which to think about automation, au
 ## Note
 
 A version of this text was originally presented at _Automation Cultures_ in 2021 at the University of Western Australia, Perth, Western Australia. It was reworked for publication in 2024.
+
+## See also
+- [[studies/55-falls-ambient-assisted-living|55 Falls / Ambient Assisted Living]]
+- 

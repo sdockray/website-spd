@@ -1,5 +1,5 @@
 - [Home](index.md)
-- [About](about.md)
+- [This website](about.md)
 - [Quasi-institutions](quasi-institutions/index.md)
 	- [Machine Listening](quasi-institutions/machine-listening.md)
 	- quasi-institutions/*.md
@@ -10,6 +10,6 @@
 	- [Egocentric Perception Workshop](studies/egocentric-perception-workshop.md)
 	- [#C](studies/C.md)
 	- [Machine Listening Songbook (5-x)](studies/machine-listening-songbook-5-x.md)
-	- [Songs about Fucking Suno](studies/songs-about-fucking-suno.md)
+	- [Songs About Fucking Suno](studies/songs-about-fucking-suno.md)
 	- studies/*.md
 - [Index](tags.md)

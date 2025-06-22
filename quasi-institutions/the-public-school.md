@@ -11,5 +11,6 @@ aliases:
 ---
 tk
 ## Words
-- [[fragments/the-public-school-interview-david-elliott|2008 Interview conducted by David Elliott]]
+
+- [[fragments/the-public-school-interview-david-elliott|Interview with Sean Dockray / The Public School]] - interview by David Elliott, 2008
 - 

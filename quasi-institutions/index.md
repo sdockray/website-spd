@@ -1,13 +1,13 @@
-# Glaciers
+# Quasi-institutions
 
 - [[quasi-institutions/machine-listening|Machine Listening]] (2020-)
-- [[quasi-institutions/performing-algorithms-automation-and-accident|Performing Algorithms Automation and Accident]] (2014-2019)
+- [[quasi-institutions/performing-algorithms-automation-and-accident|Performing Algorithms: Automation and Accident]] (2014-2019)
 - HyperReadings
 - Telic Arts Exchange (2005-2014)
 	- [[quasi-institutions/the-public-school|The Public School]] (initiated in 2007)
 	- Distributed Gallery
 	- BERLIN
-- [[quasi-institutions/aaaarg-org|aaaarg-org]] (2004-2024)
+- [[quasi-institutions/aaaarg-org|AAAARG.ORG]] (2004-2024)
 - Institute for Advanced Architecture
 	- Building Sound (2002-2004)
 

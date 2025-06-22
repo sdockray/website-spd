@@ -8,5 +8,5 @@ Studies are focused investigations that take diverse material forms—from essay
 - [[studies/egocentric-perception-workshop|Egocentric Perception Workshop]], 2025
 - [[C|#C]], 2025
 - [[studies/songs-about-fucking-suno|Songs About Fucking Suno]], 2024
-- [[studies/machine-listening-songbook-5-x|Machine Listening Songbook: (5-x)]], 2024)
+- [[studies/machine-listening-songbook-5-x|Machine Listening Songbook (5-x)]], 2024)
 - 

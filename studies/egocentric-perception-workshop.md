@@ -2,7 +2,7 @@
 title: Egocentric Perception Workshop
 type: ""
 date: 2025-06-20
-display_date: 
+display_date: "2025"
 parent: "[[studies/C|C]]"
 tags:
   - workshop
