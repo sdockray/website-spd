@@ -6,8 +6,6 @@ showDate: "false"
 draft: "false"
 showPagination: "false"
 ---
-## This website
-This website is an ongoing exercise in self-documentation. It is a static site built with [mkdocs](https://www.mkdocs.org/), which is typically used to document software projects. 
 
 ![[attachments/eavesdropping-sean-dockray-and-jasmine-guffond-keelan-o_hehir-182-1200x801.jpg]]
 /// caption
@@ -28,3 +26,7 @@ His practice-led PhD at the University of Melbourne, *Performing Algorithms: Aut
 ## Contact
 
 You can find contact information here: [https://research.monash.edu/en/persons/sean-dockray](https://research.monash.edu/en/persons/sean-dockray)
+
+## About this website
+
+This website is an ongoing exercise in self-documentation. It is a static site built with [mkdocs](https://www.mkdocs.org/), which is typically used to document software projects. 
