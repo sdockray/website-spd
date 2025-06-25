@@ -9,12 +9,11 @@ tags:
   - dataset-critique
 aliases: 
 credit: Machine Listening (Sean Dockray, James Parker, Joel Stern)
+format: Video installation (2-channel video, 4-channel audio)
 ---
 ![[attachments/Pasted image 20250618155950.png]]
 
-Machine Listening (Sean Dockray, James Parker, Joel Stern), 2025
-
-_Video installation (2-channel video, 4-channel audio)_
+## Description
 
 A series of simulated accidents are projected onto two large, leaning screens: young people pretending to be old repeatedly enter a room and fall. They pass into the windowless space, hunched and hesitant, clutching walking aids like props in an unconvincing theatre, before improvising their own descent to the floor where they lie motionless for precisely measured intervals. What is happening here? What is this place? _55 Falls / Ambient Assisted Living_ replays sequences from a Belgian healthcare technology dataset published in 2016—“High quality fall simulation data”—videos in which young researchers perform their imagination of elderly fragility in a fabricated care home to stage falls for training machine learning algorithms. The videos, originally silent, serve as a score for musicians Lizzy Welsh, Jessica Aszodi, and Joel Stern to soundtrack a film that was never intended for human eyes.
 

@@ -9,7 +9,7 @@ tags:
 aliases:
   - Songs About Fucking Suno
 credit: Machine Listening (Sean Dockray, James Parker, Joel Stern)
-format:
+format: 10 track digital album
 ---
 !!! note ""
 	View the [official documentation for this project](https://machinelistening.exposed/site-map/works/machine-listening-songbook-songs-about-fucking-suno) on the Machine Listening website

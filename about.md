@@ -29,4 +29,9 @@ You can find contact information here: [https://research.monash.edu/en/persons/s
 
 ## About this website
 
-This website is an ongoing exercise in self-documentation. It is a static site built with [mkdocs](https://www.mkdocs.org/), which is typically used to document software projects. 
+This website is an ongoing exercise in self-documentation. It is a static site built with [mkdocs](https://www.mkdocs.org/), which is typically used to document software projects.
+
+- The mkdocs config is kept in one repository: https://github.com/sdockray/mkdocs-spd
+- The website content is kept in another: https://github.com/sdockray/website-spd
+
+[An action](https://github.com/sdockray/website-spd/blob/main/.github/workflows/ci.yml) builds the website on every content push.
