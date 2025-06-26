@@ -9,7 +9,8 @@ tags:
   - long-term-research
 aliases:
 ---
-> See the official webpage for this project, [machinelistening.exposed](https://machinelistening.exposed)
+!!! note ""
+	See the official webpage for this project, [machinelistening.exposed](https://machinelistening.exposed)
 
 ## About
 
