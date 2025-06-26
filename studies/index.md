@@ -11,3 +11,5 @@ Studies are focused investigations that take diverse material forms—from essay
 - [[studies/machine-listening-songbook-5-x|Machine Listening Songbook (5-x)]], 2024
 - [[environments-12|Environments 12]], 2023
 - [[studies/after-words|After Words]], 2022
+- [[post-post-work|Post-post-work]], 2021
+- 
