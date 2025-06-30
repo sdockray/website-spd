@@ -17,7 +17,14 @@ Performance in Always Learning, Ian Potter Museum of Art, curated by Liquid Arch
 
 *Always Learning* stages an increasingly reflexive conversation between three devices – an Amazon Echo, a Google Home Assistant, and an Apple Homepod – and invites us to consider the possible philo­soph­i­cal, moral and polit­i­cal implications of autonomic computing, the rise of voice operation and our increasing comfort levels with devices that listen by default. Electronic personal assistants are just the kindergarten for a vast corporate listening apparatus – an algorithmic ‘panacousticon’ – the effects of which we should not expect to be benign.
 
-This work was commissioned for [Eavesdropping](https://eavesdropping.exposed/events/alwayslearning), a project curated by James Parker and Joel Stern at Ian Potter Museum of Art, Melbourne Australia.
+This work was commissioned for [Eavesdropping](https://eavesdropping.exposed/events/alwayslearning), a project curated by James Parker and Joel Stern at Ian Potter Museum of Art, Melbourne Australia. It contributed to the formation of  [[quasi-institutions/machine-listening|Machine Listening]] with both James and Joel.
+
+## Excerpts
+
+In the installation, each device speaks with its 'own' voice. (I am using scare quotes because I did have to modify the devices to do this.) There are several pre-scripted scenes, but the devices also function as they normally do, relaying prompts (eg. "*Alexa, have you ever witnessed a crime?*") to the cloud and responding with whatever their corporate conversational programming tells them to say. In this way, the installation drifts between two different kinds of scripting. Below are two 1 minute excerpts of the recorded audio:
+
+- [[attachments/Always Learning - Chorus - excerpt.mp3|Always Learning - Chorus - excerpt.mp3]]
+- [[attachments/Always Learning - Conversation - excerpt.mp3|Always Learning - Conversation - excerpt.mp3]]
 
 ## Exhibitions
 
@@ -34,3 +41,19 @@ This work was commissioned for [Eavesdropping](https://eavesdropping.exposed/eve
 ## Review
 
 - [*Eavesdropping: A reader,](https://www.researchcatalogue.net/view/558982/1115318)* 2018, Journal of Sonic Studies, Tyler Shoemaker
+
+## Images
+![[attachments/always-learning-wellington.jpg]]
+/// caption
+Learning from YouTube and Always Learning, City Gallery, Wellington, NZ, 2019
+///
+![[attachments/always-learning-performance.jpg]]
+/// caption
+Always Learning performance, 2018
+///
+
+![[attachments/always-learning-score.jpg]]
+/// caption
+Performance score, 2018
+///
+
