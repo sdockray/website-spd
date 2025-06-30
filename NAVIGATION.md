@@ -11,6 +11,7 @@
 	- [#C](studies/C.md)
 	- [Machine Listening Songbook (5-x)](studies/machine-listening-songbook-5-x.md)
 	- [Songs About Fucking Suno](studies/songs-about-fucking-suno.md)
+	- ['All possible sounds': speech, music, and the emergence of machine listening](studies/all-possible-sounds.md)
 	- [Environments 12](studies/environments-12.md)
 	- [After Words](studies/after-words.md)
 	- studies/*.md

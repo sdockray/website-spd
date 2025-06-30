@@ -20,4 +20,5 @@ A version of this text was originally presented at _Automation Cultures_ in 2021
 
 ## See also
 - [[studies/55-falls-ambient-assisted-living|55 Falls / Ambient Assisted Living]]
+- [[fragments/falling-furniture|Falling furniture sketch]]
 - 

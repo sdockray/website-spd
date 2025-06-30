@@ -9,7 +9,9 @@ Studies are focused investigations that take diverse material forms—from essay
 - [[C|#C]], 2025
 - [[studies/songs-about-fucking-suno|Songs About Fucking Suno]], 2024
 - [[studies/machine-listening-songbook-5-x|Machine Listening Songbook (5-x)]], 2024
+- [[studies/all-possible-sounds|'All possible sounds': speech, music, and the emergence of machine listening]], 2023
 - [[environments-12|Environments 12]], 2023
 - [[studies/after-words|After Words]], 2022
 - [[post-post-work|Post-post-work]], 2021
+- [[studies/always-learning|Always Learning]], 2018
 - 
