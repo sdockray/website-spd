@@ -14,5 +14,8 @@
 	- ['All possible sounds': speech, music, and the emergence of machine listening](studies/all-possible-sounds.md)
 	- [Environments 12](studies/environments-12.md)
 	- [After Words](studies/after-words.md)
+	- [Automation Takes Control](studies/automation-takes-control.md)
+	- [Post-post-work](studies/post-post-work.md)
+	- [Always Learning](studies/always-learning.md)
 	- studies/*.md
 - [Index](tags.md)

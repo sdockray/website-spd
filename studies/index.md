@@ -13,5 +13,5 @@ Studies are focused investigations that take diverse material forms—from essay
 - [[environments-12|Environments 12]], 2023
 - [[studies/after-words|After Words]], 2022
 - [[post-post-work|Post-post-work]], 2021
+- [[studies/automation-takes-control|Automation Takes Control]], 2019
 - [[studies/always-learning|Always Learning]], 2018
-- 
