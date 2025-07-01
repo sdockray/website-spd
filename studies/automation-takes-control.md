@@ -14,6 +14,8 @@ format:
 ## Context
 
 > I was invited by by Ruth DeSouza to make a presentation to a symposium - *Finding ways to make unstructured data usable* - hosted by the Data, Systems and Society Research Network (DSSRN) at the University of Melbourne on 28 November 2019. I was in a panel on "environment, physics, sensors and other forms of pervasive data collection" and because I had been spending a lot of time with patent diagrams, I based my talk on them.
+> 
+> The title for the talk is a play on the title *Mechanization Takes Command* by Sigfried Giedion, with the idea of updating the project to an investigation of automations effects on everyday life.
 
 ## Automation Takes Control
 
