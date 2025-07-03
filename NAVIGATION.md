@@ -17,5 +17,7 @@
 	- [Automation Takes Control](studies/automation-takes-control.md)
 	- [Post-post-work](studies/post-post-work.md)
 	- [Always Learning](studies/always-learning.md)
+	- [Melting Points](studies/melting-points.md)
+	- [Expanded Essay](studies/expanded-essay.md)
 	- studies/*.md
 - [Index](tags.md)

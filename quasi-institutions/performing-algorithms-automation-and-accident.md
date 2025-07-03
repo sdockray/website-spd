@@ -47,5 +47,7 @@ the accident.
 **Source:** [URI in repository](https://hdl.handle.net/11343/233233)
 
 
-## Creative work
+## See also
+- [[studies/expanded-essay|Expanded Essay]]
+- [[studies/always-learning|Always Learning]]
 - 

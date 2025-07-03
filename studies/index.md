@@ -16,3 +16,5 @@ Studies are focused investigations that take diverse material forms—from essay
 - [[post-post-work|Post-post-work]], 2021
 - [[studies/automation-takes-control|Automation Takes Control]], 2019
 - [[studies/always-learning|Always Learning]], 2018
+- [[studies/melting-points|Melting Points]], 2015
+- [[studies/expanded-essay|Expanded Essay]], 2015
