@@ -1,0 +1,1157 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://sdockray.github.io/website-spd/studies/artificial-imagination/">
+      
+      
+        <link rel="prev" href="../always-learning/">
+      
+      
+        <link rel="next" href="../fake-news/">
+      
+      
+      <link rel="icon" href="../../assets/images/logo.ico">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.15">
+    
+    
+      
+        <title>Artificial Imagination: Deepfakes from latent space - Sean Dockray</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.342714a4.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Georgia:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Georgia";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="white" data-md-color-accent="black">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#artificial-imagination-deepfakes-from-latent-space" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Sean Dockray" class="md-header__button md-logo" aria-label="Sean Dockray" data-md-component="logo">
+      
+  <img src="../../assets/images/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Sean Dockray
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Artificial Imagination: Deepfakes from latent space
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Sean Dockray" class="md-nav__button md-logo" aria-label="Sean Dockray" data-md-component="logo">
+      
+  <img src="../../assets/images/logo.png" alt="logo">
+
+    </a>
+    Sean Dockray
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../about/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    About
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../quasi-institutions/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Quasi-institutions
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3" id="__nav_3_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Quasi-institutions
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../quasi-institutions/machine-listening/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Machine Listening
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../quasi-institutions/aaaarg-org/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    AAAARG.ORG
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Studies
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_4" id="__nav_4_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Studies
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../the-politics-of-falling/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    The Politics of Falling
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../55-falls-ambient-assisted-living/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    55 Falls / Ambient Assisted Living
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../voyce-walker/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Voyce Walker
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../egocentric-perception-workshop/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Egocentric Perception Workshop
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../C/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    #C
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../machine-listening-songbook-5-x/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Machine Listening Songbook (5-x)
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../songs-about-fucking-suno/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Songs About Fucking Suno
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../all-possible-sounds/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    'All possible sounds': speech, music, and the emergence of machine listening
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../environments-12/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Environments 12
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../after-words/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    After Words
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../automation-takes-control/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Automation Takes Control
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../post-post-work/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Post-post-work
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../always-learning/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Always Learning
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Artificial Imagination: Deepfakes from latent space
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Artificial Imagination: Deepfakes from latent space
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="Contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#artificial-imagination-deepfakes-from-latent-space" class="md-nav__link">
+    <span class="md-ellipsis">
+      Artificial Imagination: Deepfakes from latent space
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#published" class="md-nav__link">
+    <span class="md-ellipsis">
+      Published
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#see-also" class="md-nav__link">
+    <span class="md-ellipsis">
+      See also
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../fake-news/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Fake news, artificial intelligence and data visualisation
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../melting-points/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Melting Points
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../expanded-essay/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Expanded Essay
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../the-world-as-a-wakeword/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    The World as a Wakeword
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../tags/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Index
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="Contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#artificial-imagination-deepfakes-from-latent-space" class="md-nav__link">
+    <span class="md-ellipsis">
+      Artificial Imagination: Deepfakes from latent space
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#published" class="md-nav__link">
+    <span class="md-ellipsis">
+      Published
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#see-also" class="md-nav__link">
+    <span class="md-ellipsis">
+      See also
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  <h1>Artificial Imagination: Deepfakes from latent space</h1>
+
+<table class="properties">
+<tr><td>Date:</td><td>2018</td></tr>
+<tr><td>Format:</td><td>Journal article</td></tr>
+
+
+<tr><td>Index:</td><td class="tags">
+
+<a href="../../tags/#tag:writing">writing</a>
+
+</td></tr>
+
+</table>
+
+
+
+
+<figure>
+<p><img alt="attachments/artlink/Dockray_11.jpg" src="../../attachments/artlink/Dockray_11.jpg" /></p>
+<figcaption>
+<p>A video puppet created by Jordan Peele and BuzzFeed in early 2018 to raise public awareness and media literacy.</p>
+</figcaption>
+</figure>
+<h2 id="artificial-imagination-deepfakes-from-latent-space">Artificial Imagination: Deepfakes from latent space</h2>
+<p>By now, you’ve probably witnessed a deepfake: a synthetic image or video produced by machine learning processes that appears to be real. These images have naturally led to some concern that elections might be swung or geopolitical rifts opened by some believable, but false evidence. A confession – a smoking gun –manufactured to manipulate public sentiment and destabilise democracies. So far, deepfakes have been as benign as a missile test. They are typically framed by the story of their own production, serving both to showcase the power of artificial intelligence and as a warning about the images to come.</p>
+<p>Opacity and concealment colour the language around AI. Terms like machine learning and neural networks are already obscure, while others like black boxes, deep learning, and latent spaces seem to embrace hermeticism. A neural network is trained to do something. It sits between some input – an image, maybe –and some output, such as whether or not a person, or even a particular person, is in that image. Rather than a human coding an algorithm by providing some rules of “what to look for,” essentially putting theory before practice, the neural network is an algorithmic machine that learns through practice. It improves itself by taking guesses, making mistakes, and trying to adapt accordingly.</p>
+<p>When a neural network is trained on millions of images, those images must first be converted into data. Not pixels, but even more compressed features, which can be common visual patterns like a mass of light or stripes or even the shape of a moustache. The accumulation of these features are more than just a kind of compression, they define an ur-image, a latent space, almost like DNA, that can be projected back out, through a neural network model, into physical and visual space as a new image. The deepfake is a creature of this new mode of virtual reality.</p>
+<p>The deepfake also works in reverse. In 2013, a paper called “Intriguing Properties of Neural Networks” showed that it was possible to show an image of a bus to a neural network and make it recognise that image as an ostrich.<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup> This was accomplished by subtly manipulating the pixels of the image, adding imperceptible visual noise, such that the human eye could see no difference, whereas the algorithm was blinded by its certainty that the image was, in fact, something else entirely. These kinds of images were called by the authors “adversarial images,” conjuring up fears and fantasies of attacking surveillance algorithms with adversarial makeup or deceiving self‑driving car algorithms with adversarial stop signs.</p>
+<p>But in true dialectic form, a follow-up paper proposed that this adversarial tactic could be internalised by the neural network to inoculate itself to these deceptions. The 2014 paper proposed a new neural network architecture called Generative Adversarial Networks (GANs) which were described in an evocative, dramatic way as two networks pitted against one another.<sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup> On one side were the criminals, producing counterfeit money, while on the other were the police, who try to determine whether money is real or fake. The police become more discerning as the counterfeits improve while the counterfeiters must constantly do better to fool the police. At a certain point, neither can advance any further and the authentic money is impossible to tell apart from the counterfeit.</p>
+<p>Police and crime merge, but not in the usual corrupt way. Instead, corruption becomes a part of the process. The machine exploits this internalised corruption as realism to produce new images, which seem unconstructed to the human eye. As much as they appear to have come from a camera, these images are without referent. They are fakes, like the portrait photographs of virtual celebrities. Smiling, believable, almost familiar, they could be extras in a sitcom you haven’t got around to watching. They are generic in the way that celebrity is generic: perpetually repeating itself with minor variation.</p>
+<figure>
+<p><img alt="attachments/artlink/Dockray_21.jpg" src="../../attachments/artlink/Dockray_21.jpg" /></p>
+<figcaption>
+<p>Detail from a composite of synthetic celebrities published in Tero Karras, Timo Aila, Samuli Laine and Jaakko Lehtinen. “Progressive Growing of GANs for Improved Quality, Stability, and Variation,” Preprint ArXiv: 1710.10196, 2017. Courtesy NVIDIA Corporation</p>
+</figcaption>
+</figure>
+<p>The thing about GANs, or generative neural networks more generally, is that the realistic new images they produce are contained within the possibility space of the test data they are trained on, effectively its world. For the celebrities, this possibility space would be the CelebA dataset, which is comprised of more than 200,000 images of 10,000 different people, each of which has 40 different features, like “bangs,” “double chin,” and “bushy eyebrows.” The possibility space is not just these 200,000 images, but all possible images that are plausibly members of that set. Again, test data – basically, a large number of examples to learn from – is essential.</p>
+<p>Cultural biases embedded within the test data manifest themselves in the performance of neural networks, a phenomenon illustrated by the sameness of the fake celebrities. And it is the availability of test data, perhaps more than computing power or algorithms, that is often a bottleneck in machine learning because of the significant manual labour required. One real-world innovation of GANs is to automate the production of test data, such that to see an image produced by a GAN is to see two otherwise imperceptible things: the obverse of the surveillance and monitoring algorithms everywhere and the changing composition of labour within post-industrial capitalism.</p>
+<p>But if this is a new form of virtual reality, then where is the sense of immersion that typically characterises VR experiences, whether in a headset or media archeologically speaking, in a panorama? Immersion not only envelops the viewer’s visual field, but often also allows a mobility of perspective. The images I’ve been discussed so far, taken at face value, are not visually immersive. They have frames. I can turn away from them. But I can’t turn away from all images forever. At the moment, generative images are a spectacle. They call attention to themselves for their technical virtuosity. But as neural networks get integrated into cameras and consumer software, so too will the generative capacity of the algorithms, increasing resolution, fixing smiles, changing colours, adapting poses, adding glasses, trimming facial hair, subtracting people, correcting the sky, and so on. If generative images are immersive it is because they take place in the world around us. They virtualise reality.</p>
+<p>Another characteristic of VR is the disappearance of the computer. All of the requisite gear is “backstage,” necessary for but excluded from the immersive image. A successful “virtual reality effect”<sup id="fnref:3"><a class="footnote-ref" href="#fn:3">3</a></sup> requires the visual suppression of its own technological support, in much the same way that naturalistic special effects obscure any residue of their production. Generative images break free of a specialised display apparatus, appearing not in some kind of purpose-built amusement park, but in the wild. They are still dependent on the orchestration of advanced capital, but the computers that produce these images are often invisible, remote, and rented by the second from an Amazon or Google data centre.</p>
+<p>In the “redoubling” of the world as data, made possible by the enveloping, largely invisible superstructure of sensors, smart devices, networks and data centres, Mark Andrejevic identifies an emerging logic of “framelessness.”<sup id="fnref:4"><a class="footnote-ref" href="#fn:4">4</a></sup> Although this framelessness refers to a totalising information collection that demands correspondingly immersive representation (through VR, for instance) we only need to grab hold of the VR headset to feel how tangible the frame still is. But in the same way that we no longer need to “jack in,” like Case in <em>Neuromancer</em> – as Andrejevic notes, “the contemporary technological imaginary collapses cyberspace into physical space”<sup id="fnref:5"><a class="footnote-ref" href="#fn:5">5</a></sup> – we should be on the lookout for encounters with virtual reality outside of the frame of the headset.</p>
+<p>The GAN stages a virtual reality internally within its own structure, a game theoretical environment with accelerated scenarios of production and reception loosely shaping data into acceptable patterns made image. And when these pattern images are let loose into our world, they bring something of that game with them. They have no referent, they represent no thing in particular. And yet, looking at an image of a generated portrait, it convincingly represents a face, some person. But, consciously, we know that this can’t be. This image does not index a person or a moment in time. And yet, again, the dataset from which the image was generated is replete with indexical photographs that have, projected through the GAN, produced this image. Following Gilles Deleuze’s proposition that, in control societies, individuals have become dividuals,<sup id="fnref:6"><a class="footnote-ref" href="#fn:6">6</a></sup> we could add that the indexical becomes dexical.</p>
+<p>These dexicalities, these externalised virtualities of the GAN, confront us as both familiar and alien, banal and strange. If they index anything then it is the algorithms themselves, entangled as they are in virtualised computers spread across physical hardware. The dexical pattern‑image is metonymically related to the generalised weirdness of big data‑based algorithmic culture: a car that drives itself, a cargo ship going in circles for weeks in search of profitability, a books that costs $23,698,655.93, appliances eavesdropping on you, robo-debt, flash crashes, the car crashes.</p>
+<p>Causality was the dominant logic of industrial societies, according to Vilém Flusser, underpinning the scientific drive of everything from biology to psychology. But in our post-industrial, information-driven world, he argues that chance rules. This might seem counterintuitive, but chance is not mere randomness. No, chance refers to the unrelenting realisation of a program’s latent possibilities. With enough time, enough iterations, enough rolls of the dice, every potential outcome, even the least probable, the most weird, will come to pass. GANs provide a vivid example of this axiom, accelerating the programs latent in some data reality in order to explore regions of the possibility – space that have not yet become actual. In other words, the GAN retroactively generates the program for its world and subsequently realises the virtualities contained within it – new celebrities, for instance. The images are not simply fake – whether that means a modelled, rendered construction or a fraudulent imitation – but they are practically real, as if a genuine photograph of an actual person genetically engineered from celebrity DNA. On the surface of the image, there is no difference from the real thing.</p>
+<p>There is a increasing amount of artwork made from GANs, which tends not to be overinvested in realism (even if it is often preoccupied with resolution, eliminating artefacts, and other finishings), instead leaning toward visually arresting forms that read as distortions of the familiar. They mine the recesses of latent space. The images that Mario Klingemann derives from datasets of paintings by old masters, for example, are grotesque, Francis Bacon‑inspired heads, bodies, and parts, as if the algorithm has unearthed something repressed in the paintings-as-data. In practice, it is more the analytical dimension of the GAN is most likely experienced in everyday life, whereas the synthetic, generative dimension explored in these artworks and scientific papers is primarily active during training, when the machine learns.</p>
+<figure>
+<p><img alt="attachments/artlink/Dockray_Klingemann-composite_31.jpg" src="../../attachments/artlink/Dockray_Klingemann-composite_31.jpg" /></p>
+<figcaption>
+<p>Mario Klingemann, <em>6956/79530 Self Portraits,</em> 2018; <em>8795/79530 Self Portraits</em>, 2018, composition of multiple GANS. Courtesy the artist</p>
+</figcaption>
+</figure>
+<p>In Pliny the Elder’s famous account of the competition between artist adversaries, Zeuxis and Parrhasius, each painter sought to produce a more realistic painting than the other. Zeuxis’ depiction of grapes was so convincing that birds, attempting to eat the fruit, were fooled. When Zeuxis requested that the curtain in front of Parrhasius’ painting be pulled open so that it could be judged, he realised that he had been tricked, for the curtain was the painting. In this story, we see the presence of both the non-human (the birds) and the human (the artist) critic, where finally the ultimate authority resides with the latter. With photorealistic fakes, we are living through a reversal of this authority in which the human eye must finally defer to computational devices for determining authenticity, consistency, and provenance.</p>
+<p>Unsurprisingly, adversarial images are beginning to proliferate in our cultural Zeitgeist of pronounced scepticism, which I previously discussed in “<a href="../fake-news/">Fake news, artificial intelligence and data visualisation</a>.”<sup id="fnref:7"><a class="footnote-ref" href="#fn:7">7</a></sup> It is difficult to trust a photograph any more than a hand-drawn image. We are constantly compelled to interrogate the entire chain of production of an image, a way of seeing that increasingly depends on algorithmic evaluation to discern imperceptible manipulation or cryptography or even blockchain to determine and trace an image’s provenance. You will no doubt see that relying on computation propels a cycle forward as each of these systems is inevitably gamed, requiring further monitoring, and deepening our dependency on – and, it might be said, our affective connection to – the machine. In the alternative tendency pulling on this epistemological knot, the viewer falls back onto their own intuition, such that instinct and emotion are given precedence over what is there.</p>
+<p>Saya, a “virtual human” created by designers Teruyuki and Yuka Ishikawa using Quixel and Maya, easily fools the eye. And there are virtual Instagram models, like Bermuda and Lil Miquela, who emerge from a logic of digital rendering and superimposition. They’re not as realistic as Saya, their faces and mannequin-like poses don’t quite fit, but part of the appeal seems to be going along with the suspension of disbelief. Are they real? Well, no. But they do have followers, music and modeling contracts. The water is further muddied when it comes to flesh‑based Instagram models (some of whom will, occasionally, pose in images with the virtual models) in environs so constructed, they’re practically virtual spaces. On Twitter, abandoned accounts are hacked, sold, and repurposed, sometimes bringing the dead back to life as a pro‑Trump white nationalist. Bodies and profiles become avatars for offstage directors.</p>
+<p>The ease of using the body-image as puppet has become clear with the deepfakes that, for example, apply a celebrity’s face to an actor in a porn scene or manufacture a new speech from Barak Obama. Deepfakes don’t require creating a virtual model from the ground up, applying textures and lighting, but rather learning patterns in data and then generating more of that data according to those patterns. The image becomes plastic without being plasticky. This process is different from yet encompasses the fact that it might be Photoshopped or it might be rendered. It is a synthetic image.</p>
+<p>If I return to the myth of Zeuxis and Parrhasius, it is not to dwell on the fake or the counterfeit, but rather to emphasise Parrhasius’ innovation, which was to jump frames. The history of <em>trompe l’oeil</em> painting is a history of breaking the frame, often depicting such a transgression as part of the image. Parrhasius went a step further, finding a way to game the contest as it was understood at the time. And we might imagine more jumps: a counterfeit audience, a staged contest, and so on up until absolutely everything is a constructed trick. Although this succession of superseding frames quickly transforms into paranoid belief in a conspiracy just outside the perceptible limits of one’s world – an all-encompassing meta-frame – we might alternatively ask whether a simulation can ever break free of its own support. Can it confront its own media format or is it always moving relative to its support, like running backwards on a train? Are our futures constrained by the latent space of our neural models and our data archives?</p>
+<p>Mark Fisher, in <em>Ghosts of My Life</em>, discusses the hauntological distinction between the no longer and the not yet,<sup id="fnref:8"><a class="footnote-ref" href="#fn:8">8</a></sup> explaining that the former is a traumatic drive to repeat that which no longer exists whereas the latter points to something that is imminent, that will eventually happen. Artificial intelligence – that presence that exists partly in reality, but mostly in the collective imagination as a future god – is the not yet that is already here, dissolving the present state of things, realising virtualities and virtualising the real. In spite of the advanced technology, the repressed data memories that GAN brings forth often seem stuck in the no longer, immersed in the possibility space afforded by the data set. Is it possible to go beyond visualising these symptoms, to jump frames and confront or repurpose the image-making machines of the present? Or has our framelessness finally put an end to this kind of move? Is it time to learn to make space in our virtual reality?</p>
+<figure>
+<p><img alt="attachments/artlink/Dockray_41.jpg" src="../../attachments/artlink/Dockray_41.jpg" /></p>
+<figcaption>
+<p>Sean Dockray, video still from “Adversarial Uploads”, 2018. These videos uploaded to YouTube are made entirely of visual noise that produces a gap in machine and human perception.</p>
+</figcaption>
+</figure>
+<h2 id="published">Published</h2>
+<ul>
+<li>Dockray, Sean. “Artificial Imagination: Deepfakes from Latent Space.” <em>Artlink</em> 38, no. 4 (December 2018): 66–72.</li>
+</ul>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../fake-news/">Fake news, artificial intelligence and data visualisation</a></li>
+</ul>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, and Rob Fergus, Figure 5 in “Intriguing Properties of Neural Networks,” <em>ArXiv</em> Preprint ArXiv:1312.6199, 2013.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+<li id="fn:2">
+<p>Ian Goodfellow, Jean Pouget‑Abadie, Mehdi Mirza, Bing Xu, David Warde‑Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio, “Generative Adversarial Nets,” in <em>Advances in Neural Information Processing Systems</em>, 2014, 2672–80.&#160;<a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text">&#8617;</a></p>
+</li>
+<li id="fn:3">
+<p>See <em>Virtual Reality: Definition and Requirements</em>, NASA Advanced Supercomputing Division: https://www.nas.nasa.gov/Software/VWT/vr.html.&#160;<a class="footnote-backref" href="#fnref:3" title="Jump back to footnote 3 in the text">&#8617;</a></p>
+</li>
+<li id="fn:4">
+<p>Mark Andrejevic, “‘Framelessness,’ or the Cultural Logic of Big Data,” in Michael S. Daubs and Vincent R. Manzerolle (eds), <em>Mobile and Ubiquitous Media,</em> Peter Lang US, 2018, doi:10.3726/b13289.&#160;<a class="footnote-backref" href="#fnref:4" title="Jump back to footnote 4 in the text">&#8617;</a></p>
+</li>
+<li id="fn:5">
+<p>Andrejevic, “‘Framelessness,’ or the Cultural Logic of Big Data,” 251.&#160;<a class="footnote-backref" href="#fnref:5" title="Jump back to footnote 5 in the text">&#8617;</a></p>
+</li>
+<li id="fn:6">
+<p>Gilles Deleuze, “Postscript on the Societies of Control,” <em>October 59</em> (n.d.): pp. 3–7.&#160;<a class="footnote-backref" href="#fnref:6" title="Jump back to footnote 6 in the text">&#8617;</a></p>
+</li>
+<li id="fn:7">
+<p>Sean Dockray, “Fake news, artificial intelligence and data visualisation”, Artlink 37:1, pp. 12–17: https://www.artlink.com.au/articles/4571/fake-news-artificial-intelligence-and-data-visuali/.&#160;<a class="footnote-backref" href="#fnref:7" title="Jump back to footnote 7 in the text">&#8617;</a></p>
+</li>
+<li id="fn:8">
+<p>These terms, including “hauntology,” come from Fisher’s reading of Martin Hägglund’s <em>Radical Atheism: Derrida and the Time of Life in Writings on Depression, Hauntology and Lost Futures</em>, Zero Books, 2014.&#160;<a class="footnote-backref" href="#fnref:8" title="Jump back to footnote 8 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.top", "navigation.indexes", "navigation.sections"], "search": "../../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.56ea9cef.min.js"></script>
+      
+    
+  </body>
+</html>
