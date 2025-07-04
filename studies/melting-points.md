@@ -13,7 +13,7 @@ format:
 
 ## Context
 
-> I was invited to contribute to an edited exhibition catalog for the MUMA exhibition *Technologism*. I knew that I wanted to offer a counter-narrative to the idea of media art as a formal exercise in exploring the expressive limits of this or that technological artefact; and I was especially interested in building off of writing practices in general and Rabih Mroué's work in particular as the point of departure for writing.
+> I was invited to contribute to an edited exhibition catalog for the MUMA exhibition *Technologism*. I knew that I wanted to offer a counter-narrative to the idea of media art as a formal exercise in exploring the expressive limits of this or that technological artefact; and I was especially interested in building off of writing practices in general and Rabih Mroué's work in particular as the point of departure for this text.
 
 ## Melting Points
 

@@ -11,6 +11,9 @@ aliases:
 credit: Machine Listening (Sean Dockray, James Parker, Joel Stern)
 format: "Listening environment: 8-channel sound installation, 35 minutes (looped); turntable, vinyl record and record sleeves."
 ---
+!!! note ""
+	View the [official documentation for this project](https://machinelistening.exposed/site-map/works/environments-12-new-concepts-in-acoustic-enrichment) on the Machine Listening website
+
 ![[attachments/e12.png]]
 /// caption
 Machine Listening, Environments 12, 2023, cover art.
@@ -52,7 +55,9 @@ In the same way that *Environments 12* feels narratively unmoored from any easil
 In sum, *Environments 12* is deeply perplexing, beautifully garish, and an unbridled pleasure for all its grotesqueries. Rarely do records strike so deft a balance between high-conceptualism and irreverent absurdity, much less while maintaining a distinct emotional core.
 
 ## Exhibitions
+
 - _Wild Hope: Conversations for Planetary Commons_, RMIT Design Hub, 14 August - 29 September 2023.
+
 ## Presentations
 
 - Environments 12 LP launch, [Earthly Futures Studio, Montreuil, Paris](https://events.humanitix.com/host/earthly-futures-studio), 18 June 2025
@@ -62,3 +67,8 @@ In sum, *Environments 12* is deeply perplexing, beautifully garish, and an unbri
 - _Environments 12_ LP launch, [Deep Assignments at Apiary Studios](https://deepassignmentsldn.substack.com/p/deep-assignments-01), London, 2 June 2025
 
 
+## Media
+
+- [The Best Field Recordings on Bandcamp, June 2025](https://daily.bandcamp.com/best-field-recordings/the-best-field-recordings-on-bandcamp-june-2025)
+- [Actualités : Sélection musicale du GRM et de Joseph Ghosn](https://www.radiofrance.fr/francemusique/podcasts/l-experimentale/actualites-selection-musicale-du-grm-et-de-joseph-ghosn-4831389) - Radio France
+- [Machine Listening ~ Environments 12: new concepts in acoustic enrichment](https://acloserlisten.com/2025/06/24/machine-listening-environments-12-new-concepts-in-acoustic-enrichment/) - review on *A Closer Listen*

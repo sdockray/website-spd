@@ -2,7 +2,7 @@
 - [About](about.md)
 - [Quasi-institutions](quasi-institutions/index.md)
 	- [Machine Listening](quasi-institutions/machine-listening.md)
-	- quasi-institutions/*.md
+	- [AAAARG.ORG](quasi-institutions/aaaarg-org.md)
 - [Studies](studies/index.md)
 	- [The Politics of Falling](studies/the-politics-of-falling.md)
 	- [55 Falls / Ambient Assisted Living](studies/55-falls-ambient-assisted-living.md)
@@ -17,6 +17,8 @@
 	- [Automation Takes Control](studies/automation-takes-control.md)
 	- [Post-post-work](studies/post-post-work.md)
 	- [Always Learning](studies/always-learning.md)
+	- [Artificial Imagination: Deepfakes from latent space](studies/artificial-imagination.md)
+	- [Fake news, artificial intelligence and data visualisation](studies/fake-news.md)
 	- [Melting Points](studies/melting-points.md)
 	- [Expanded Essay](studies/expanded-essay.md)
 	- studies/*.md

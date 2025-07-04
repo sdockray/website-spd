@@ -16,5 +16,7 @@ Studies are focused investigations that take diverse material forms—from essay
 - [[post-post-work|Post-post-work]], 2021
 - [[studies/automation-takes-control|Automation Takes Control]], 2019
 - [[studies/always-learning|Always Learning]], 2018
+- [[studies/artificial-imagination|Artificial Imagination: Deepfakes from latent space]], 2018
+- [[studies/fake-news|Fake news, artificial intelligence and data visualisation]], 2017
 - [[studies/melting-points|Melting Points]], 2015
 - [[studies/expanded-essay|Expanded Essay]], 2015
