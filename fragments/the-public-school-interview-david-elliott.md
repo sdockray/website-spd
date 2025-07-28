@@ -7,7 +7,8 @@ collaborators:
 parent: "[[quasi-institutions/the-public-school|The Public School]]"
 tags:
   - interview
-aliases: 
+  - study
+aliases:
 ---
 > This interview was conducted by David Elliott and [originally hosted on hadto.net](https://web.archive.org/web/20150601123456/http://hadto.net/writing/public-school-interview/)
 
