@@ -24,5 +24,9 @@ Researched, written and produced: Sean Dockray, James Parker, Joel Stern
 
 Dataset: “High quality fall simulation data” created by Advanced Integrated Sensing lab at the Faculty of Engineering Technology of KU Leuven
 
+## Installation
+
+![[attachments/Pasted image 20250731163058.png]]
+
 ## Exhibited
 - [The Mourning After](https://www.rmit.edu.au/events/2025/july/mourning-after), RMIT Design Hub, Melbourne, 2025
