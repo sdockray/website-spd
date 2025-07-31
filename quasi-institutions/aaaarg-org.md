@@ -19,8 +19,6 @@ To be written.
 
 ## Features
 
-### Spineless reader
-
 Robert Ochshorn and I implemented this reading interface through which you could search, highlight, add annotations, and excerpt into a commonplace book. Multiple people could remotely "read together" occupying the space of a page in real time while chatting and doing all of the above.
 
 ![[attachments/reader-1.jpeg]]
