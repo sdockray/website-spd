@@ -3,6 +3,7 @@
 - [Quasi-institutions](quasi-institutions/index.md)
 	- [Machine Listening](quasi-institutions/machine-listening.md)
 	- [AAAARG.ORG](quasi-institutions/aaaarg-org.md)
+	- [Performing Algorithms: Automation and Accident](quasi-institutions/performing-algorithms-automation-and-accident.md)
 - [Studies](studies/index.md)
 	- [The Politics of Falling](studies/the-politics-of-falling.md)
 	- [55 Falls / Ambient Assisted Living](studies/55-falls-ambient-assisted-living.md)
