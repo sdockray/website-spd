@@ -11,6 +11,10 @@ aliases:
 credit: Machine Listening (Sean Dockray, James Parker, Joel Stern)
 format: Video installation (2-channel video, 4-channel audio)
 ---
+!!! note ""
+	View the [official documentation for this installation](https://machinelistening.exposed/site-map/works/55-falls-ambient-assisted-living) on the Machine Listening website
+
+
 ![[attachments/Pasted image 20250618155950.png]]
 
 ## Description

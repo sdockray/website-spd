@@ -19,6 +19,10 @@ To be written.
 
 ## Features
 
+An online library and shared bookshelf of texts, organized into collections (previously called "issues")...
+
+![[attachments/02.jpg]]
+
 Robert Ochshorn and I implemented this reading interface through which you could search, highlight, add annotations, and excerpt into a commonplace book. Multiple people could remotely "read together" occupying the space of a page in real time while chatting and doing all of the above.
 
 ![[attachments/reader-1.jpeg]]
@@ -66,9 +70,10 @@ And clicking on a page would bring you directly into that same page.
 - Sean Dockray, ["Openings and Closings"](http://academia.edu/10386709), in _Contestations: Learning From Critical Experiments in Education_, eds. Tim Ivison and Tom Vandeputte, Bedford Press, 2013. [Commentary by Jacqueline Bell](http://x-traonline.org/article/rethinking-pedagogical-aesthetics/).
 - Sean Dockray. [“Interface, Access, Loss.”](attachments/Interface_Access_Loss.pdf) In _Undoing Property?_, edited by Marysia Lewandowska and Laurel Ptak. Berlin : Spanga, Sweden: Sternberg Press ; Tensta Konsthall, 2013.
 - Jodi Dean, Sean Dockray, Alessandro Ludovico, Pauline van Mourik, Broekman, Nicholas Thoburn and Dmitry Vilensky, ["Materialities of Independent Publishing: A Conversation with AAAAARG, Chto Delat?, I Cite, Mute, and Neural"](https://chtodelat.org/b9-texts-2/vilensky/materialities-of-independent-publishing-a-conversation-with-aaaaarg-chto-delat-i-cite-mute-and-neural/), _New Formations_ 78 (Aug 2013), pp 157-178.
+- Caleb Waldorf, Jason Smith, Matteo Pasquinelli, Sean Dockray, [[studies/there-is-nothing-less-passive-than-the-act-of-fleeing|There is nothing less passive than the act of fleeing]], 2010
 - Sean Dockray, ["The Scan and the Export"](attachments/the-scan-and-the-export.pdf), *Fillip*, 2010
 - Sean Dockray, [Book Piracy and Alienated Labour](https://lists.artdesign.unsw.edu.au/pipermail/empyre/2010-June/003007.html) and [re: Can you give us a little more insight?](https://lists.artdesign.unsw.edu.au/pipermail/empyre/2010-June/002998.html), *-empyre-* mailing list, 2010
-- Sean Dockray, ["Social Studies"](https://www.x-traonline.org/article/social-studies), conversation with Hugo Hopping, X-TRA, 2008
+- Sean Dockray, [[studies/social-studies|Social Studies]], conversation with Hugo Hopping, X-TRA, 2008
 
 ## Interviews
 - Cornelia Sollfrank, Felix Stalder, ["The Practice of Sharing Knowledge, Interview with Sean Dockray"](http://creatingcommons.zhdk.ch/the-practice-of-sharing-knowledge/), Mar 2019, 28 min. Video. Conducted Oct 2017 at HEK, Zurich. Part of the [Creating Commons](http://creatingcommons.zhdk.ch/category/working-materials/interviews/) project. (English)
@@ -101,4 +106,5 @@ And clicking on a page would bring you directly into that same page.
 
 ## Misc
 - [[fragments/five-failures|xxxx Six Failures]]
+- [[studies/aaaarg-library|AAAARG Library]]
 - Jeff Khonsary, ["Browsing the AAAARG Library"](http://fillip.ca/content/browsing-the-aaaarg-library), _Fillip_ 13 (Spring 2011).

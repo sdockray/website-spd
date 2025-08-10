@@ -10,6 +10,9 @@ aliases:
 credit: Machine Listening (Sean Dockray, James Parker, Joel Stern)
 format: 8-channel sound installation (18 minutes, looped), printed material.
 ---
+!!! note ""
+	View the [official documentation for this installation](https://machinelistening.exposed/site-map/after-words) on the Machine Listening website
+
 ![[attachments/after-words.png]]
 /// caption
 Machine Listening, After words, 2022, installation view, Australian Centre for Contemporary Art (ACCA), Melbourne. Photograph: Lucy Foster.

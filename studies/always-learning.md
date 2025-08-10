@@ -47,6 +47,12 @@ In the installation, each device speaks with its 'own' voice. (I am using scare 
 /// caption
 Learning from YouTube and Always Learning, City Gallery, Wellington, NZ, 2019
 ///
+
+![[attachments/Don't Be Evil LR-91.jpg]]
+///caption
+Sean Dockray, _Always Learning,_ 2018. Programmed home assistants: Apple Homepod, Google Home, Amazon Echo (2d Generation) duration variable. Courtesy of the artist. Photo: Louis Lim.
+///
+
 ![[attachments/always-learning-performance.jpg]]
 /// caption
 Always Learning performance, 2018
