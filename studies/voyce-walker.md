@@ -53,3 +53,4 @@ Read the _Voyce Walkr_ essay in full and listen to excerpts [here](https://ncm.o
 ## Reviews
 
 - [Exhibition review: Signal to Noise, National Communication Museum, Celina Lei, ArtsHub, 2025](https://www.notion.so/Voyce-Walkr-1ee21d7b0efc8004891fc1204d433f59?pvs=21).
+- [Around the Future Campfire: Listening with Signals and Noise, 4S Backchannels Report-Backs, 2025](https://4sonline.org/news_manager.php?page=42330)
