@@ -6,9 +6,9 @@
 - [[quasi-institutions/machine-listening|Machine Listening]] (2020-)
 - [[quasi-institutions/performing-algorithms-automation-and-accident|Performing Algorithms: Automation and Accident]] (2014-2019)
 - HyperReadings
-- Telic Arts Exchange (2005-2014)
+- [[quasi-institutions/telic-arts-exchange|Telic Arts Exchange]] (2004-2014)
 	- [[quasi-institutions/the-public-school|The Public School]] (initiated in 2007)
-	- Distributed Gallery
+	- [[quasi-institutions/distributed-gallery|Distributed Gallery]] (2008-2011)
 	- BERLIN
 - [[quasi-institutions/aaaarg-org|AAAARG.ORG]] (2004-2024)
 - [[quasi-institutions/public-monument|Public Monument]]
