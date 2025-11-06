@@ -19,3 +19,7 @@ to be written
 ## Archive
 
 See the [telic.info archive](https://telic.metadada.xyz/telic.info/)
+
+## Events 2003 - 2008
+
+![[attachments/telic-book-v1.3-screen.pdf]]

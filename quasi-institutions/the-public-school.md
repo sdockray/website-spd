@@ -9,7 +9,8 @@ tags:
   - study
 aliases:
 ---
-tk
+![[attachments/IMG_9766.jpg]]
+
 ## Words
 
 - [[fragments/the-public-school-interview-david-elliott|Interview with Sean Dockray / The Public School]] - interview by David Elliott, 2008

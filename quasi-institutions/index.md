@@ -9,7 +9,7 @@
 - [[quasi-institutions/telic-arts-exchange|Telic Arts Exchange]] (2004-2014)
 	- [[quasi-institutions/the-public-school|The Public School]] (initiated in 2007)
 	- [[quasi-institutions/distributed-gallery|Distributed Gallery]] (2008-2011)
-	- BERLIN
+	- [[quasi-institutions/berlin|BERLIN]]
 - [[quasi-institutions/aaaarg-org|AAAARG.ORG]] (2004-2024)
 - [[quasi-institutions/public-monument|Public Monument]]
 - [[quasi-institutions/an-escape-act|An Escape Act]]

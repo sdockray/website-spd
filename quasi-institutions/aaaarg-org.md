@@ -9,6 +9,7 @@ tags:
   - study
 aliases:
 ---
+
 AAAARG.ORG was an online repository of scans, exports, essays, excerpts, books, and other marginalia. It was an online platform supporting offline autodidactic activities. AAAARG.ORG grew into a community of researchers and enthusiasts from contemporary art, critical theory, philosophy, and related fields who maintain, catalog, annotate and run discussions relevant to their research interests. Its self-description:
 
 > AAAARG.ORG is a conversation platform - at different times it performs as a school, or a reading group, or a journal. It was created with the intention of developing critical discourse outside of an institutional framework. But rather than thinking of it like a new building, imagine scaffolding that attaches onto existing buildings and creates new architectures between them.
@@ -108,3 +109,5 @@ And clicking on a page would bring you directly into that same page.
 - [[fragments/five-failures|xxxx Six Failures]]
 - [[studies/aaaarg-library|AAAARG Library]]
 - Jeff Khonsary, ["Browsing the AAAARG Library"](http://fillip.ca/content/browsing-the-aaaarg-library), _Fillip_ 13 (Spring 2011).
+
+![[attachments/04.jpg]]

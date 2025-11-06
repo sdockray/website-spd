@@ -12,6 +12,8 @@ format: Dot matrix printed card catalogue (10,000 cards, cabinet)
 ---
 ## Images
 
+![[attachments/03.jpg]]
+
 ![[attachments/P1010774.jpg]]
 
 ![[attachments/card.jpg]]
