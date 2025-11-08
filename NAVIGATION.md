@@ -1,5 +1,6 @@
 - [Home](index.md)
 - [About](about.md)
+- [Weblog](https://somethingilearned.today)
 - [Quasi-institutions](quasi-institutions/index.md)
 	- [Machine Listening](quasi-institutions/machine-listening.md)
 	- [AAAARG.ORG](quasi-institutions/aaaarg-org.md)

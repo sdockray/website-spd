@@ -2,6 +2,7 @@
 
 Studies are focused investigations that take diverse material forms—from essays and software to sculptures, performances, and recorded works—each pursuing distinct lines of inquiry through research-based practice. These works often exist in multiple iterations or drafts, following an experimental approach that treats each medium as a method of thinking. Whether taking their shape as installations, writings, or sound pieces, each study represents a committed exploration of particular questions, concepts, or phenomena encountered through sustained engagement with specific materials and histories.
 
+- Here is a dataset, 2025
 - [[studies/55-falls-ambient-assisted-living|55 Falls / Ambient Assisted Living]], 2025
 - [[studies/the-politics-of-falling|The Politics of Falling]], 2025
 - [[studies/voyce-walker|Voyce Walker]], 2025
@@ -16,8 +17,32 @@ Studies are focused investigations that take diverse material forms—from essay
 - [[studies/after-words|After Words]], 2022
 - [[post-post-work|Post-post-work]], 2021
 - [[studies/automation-takes-control|Automation Takes Control]], 2019
+- Last Pages, 2019
+- Patent Futures, 2019
+- README.md, 2018
 - [[studies/always-learning|Always Learning]], 2018
+- Ontology, 2018
+- Adversarial Uploads, 2018
 - [[studies/artificial-imagination|Artificial Imagination: Deepfakes from latent space]], 2018
+- Stenographer Memorial, 2018
+- Chorus, 2018
+- Hyperreadings, 2017
 - [[studies/fake-news|Fake news, artificial intelligence and data visualisation]], 2017
+- AI-Commune (essay), 2017
 - [[studies/melting-points|Melting Points]], 2015
 - [[studies/expanded-essay|Expanded Essay]], 2015
+- Real Estate Survey, 2015
+- AI COMMUNE (installation), 2015
+- Interface, Access, Loss, 2013
+- Openings and Closings, 2013
+- The External Program (essay), 2012
+- External Program (program), 2012
+- Public Monument, 2011
+- There is Nothing Less Passive than the Act of Fleeing, 2011
+- An Escape Act, 2010
+- Facebook Suicide (Bomb) Manifesto, 2010
+- The Scan and the Export, 2010
+- Blocking All Lanes, 2005
+- Simetery, 2001
+- On the Postmortem, 2001
+- Containment, 1999
