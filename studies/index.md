@@ -37,12 +37,19 @@ Studies are focused investigations that take diverse material forms—from essay
 - Openings and Closings, 2013
 - The External Program (essay), 2012
 - External Program (program), 2012
+- Logical Conclusions, 2012
 - Public Monument, 2011
 - There is Nothing Less Passive than the Act of Fleeing, 2011
 - An Escape Act, 2010
 - Facebook Suicide (Bomb) Manifesto, 2010
+- [[studies/aaaarg-library|AAAARG Library]], 2010
 - The Scan and the Export, 2010
 - Blocking All Lanes, 2005
+- Applause Collection, 2005
+- Churchillian, 2004
+- Ameising 2, 2003
+- Ameising 1, 2003
+- Money, 2003
 - Simetery, 2001
 - On the Postmortem, 2001
 - Containment, 1999
