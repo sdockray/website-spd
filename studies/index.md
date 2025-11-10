@@ -33,6 +33,7 @@ Studies are focused investigations that take diverse material forms—from essay
 - [[studies/expanded-essay|Expanded Essay]], 2015
 - Real Estate Survey, 2015
 - AI COMMUNE (installation), 2015
+- [[studies/programs-and-platforms|Programs and Platforms]], 2014
 - Interface, Access, Loss, 2013
 - Openings and Closings, 2013
 - The External Program (essay), 2012

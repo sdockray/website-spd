@@ -6,8 +6,9 @@ display_date: "2014"
 parent: ""
 tags:
   - writing
-aliases: 
-credit: 
+  - quasi-institution
+aliases:
+credit:
 format:
 ---
 

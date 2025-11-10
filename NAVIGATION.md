@@ -25,6 +25,7 @@
 	- [Fake news, artificial intelligence and data visualisation](studies/fake-news.md)
 	- [Melting Points](studies/melting-points.md)
 	- [Expanded Essay](studies/expanded-essay.md)
+	- [Programs and Platforms](studies/programs-and-platforms.md)
 	- [There is nothing less passive than the act of fleeing](studies/there-is-nothing-less-passive-than-the-act-of-fleeing.md)
 	- [AAAARG Library](studies/aaaarg-library.md)
 	- [Quasi-architecture](studies/quasi-architecture.md)
