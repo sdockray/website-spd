@@ -15,14 +15,19 @@ Studies are focused investigations that take diverse material forms—from essay
 - [[studies/the-world-as-a-wakeword|The World as a Wakeword]], 2023
 - [[studies/ego-trip|Ego Trip]], 2022
 - [[studies/after-words|After Words]], 2022
+- [[studies/hack-piece|Hack Piece]], 2022
 - [[post-post-work|Post-post-work]], 2021
+- [[studies/making-publics|Making Publics]], 2021
+- [[Listening to the Diagnostic Ear]], 2020
+- [[studies/performing-algorithms-automation-and-accident|Performing Algorithms: Automation and Accident]], 2019
 - [[studies/automation-takes-control|Automation Takes Control]], 2019
 - Last Pages, 2019
 - Patent Futures, 2019
 - README.md, 2018
+- [[studies/learning-from-youtube|Learning from YouTube]], 2018
 - [[studies/always-learning|Always Learning]], 2018
-- Ontology, 2018
-- Adversarial Uploads, 2018
+- [[studies/ontology|Ontology]], 2018
+- [[studies/adversarial-uploads|Adversarial Uploads]], 2018
 - [[studies/artificial-imagination|Artificial Imagination: Deepfakes from latent space]], 2018
 - Stenographer Memorial, 2018
 - Chorus, 2018
@@ -36,15 +41,18 @@ Studies are focused investigations that take diverse material forms—from essay
 - [[studies/programs-and-platforms|Programs and Platforms]], 2014
 - Interface, Access, Loss, 2013
 - Openings and Closings, 2013
+- [[studies/fieldnotes-from-the-cloud|Fieldnotes from the Cloud]], 2013
 - The External Program (essay), 2012
 - External Program (program), 2012
 - Logical Conclusions, 2012
 - Public Monument, 2011
-- There is Nothing Less Passive than the Act of Fleeing, 2011
+- [[studies/there-is-nothing-less-passive-than-the-act-of-fleeing|There is nothing less passive than the act of fleeing]], 2011
 - An Escape Act, 2010
 - Facebook Suicide (Bomb) Manifesto, 2010
 - [[studies/aaaarg-library|AAAARG Library]], 2010
 - The Scan and the Export, 2010
+- [[studies/quasi-architecture.md|Quasi-architecture]]
+- [[studies/social-studies|Social Studies]]
 - Blocking All Lanes, 2005
 - Applause Collection, 2005
 - Churchillian, 2004

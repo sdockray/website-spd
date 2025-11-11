@@ -3,11 +3,11 @@ title: Expanded Essay
 type: ""
 date: 2025-07-03
 display_date: "2015"
-parent: "[[quasi-institutions/performing-algorithms-automation-and-accident|Performing Algorithms: Automation and Accident]]"
+parent: "[[studies/performing-algorithms-automation-and-accident|Performing Algorithms: Automation and Accident]]"
 tags:
   - writing
-aliases: 
-credit: 
+aliases:
+credit:
 format:
 ---
 ## Preamble

@@ -7,7 +7,8 @@ parent: ""
 tags:
   - installation
   - album
-aliases: 
+  - fiction
+aliases:
 credit: Machine Listening (Sean Dockray, James Parker, Joel Stern)
 format: "Listening environment: 8-channel sound installation, 35 minutes (looped); turntable, vinyl record and record sleeves."
 ---

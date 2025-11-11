@@ -6,6 +6,7 @@ display_date: 2014-2019
 parent: ""
 tags:
   - long-term-research
+  - writing
 aliases:
 ---
 ## Download
@@ -50,4 +51,4 @@ the accident.
 ## See also
 - [[studies/expanded-essay|Expanded Essay]]
 - [[studies/always-learning|Always Learning]]
-- 
+- [[studies/learning-from-youtube|Learning from YouTube]]

@@ -4,7 +4,7 @@
 	See also: [[studies/quasi-architecture.md|Quasi-architecture]]
 
 - [[quasi-institutions/machine-listening|Machine Listening]] (2020-)
-- [[quasi-institutions/performing-algorithms-automation-and-accident|Performing Algorithms: Automation and Accident]] (2014-2019)
+- [[studies/performing-algorithms-automation-and-accident|Performing Algorithms: Automation and Accident]] (2014-2019)
 - HyperReadings
 - [[quasi-institutions/telic-arts-exchange|Telic Arts Exchange]] (2004-2014)
 	- [[quasi-institutions/the-public-school|The Public School]] (initiated in 2007)
