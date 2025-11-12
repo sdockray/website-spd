@@ -4,7 +4,7 @@ name: CI
 
 env:
   DOCS_DIR: docs
-  SITE_URL: https://sdockray.github.io/website-spd
+  SITE_URL: https://metadada.xyz
 
 # Controls when the workflow will run
 on:
