@@ -73,7 +73,7 @@ After Words, Galerie Nord | Kunstverein Tiergarten, Berlin, 2023
 
 ## Presentations
 
-- Articulating Data: vocalisation, machine listening, and the (in)security of language in a digital age, University of Edinburgh, 2023
+- [Articulating Data](https://articulatingdata.com/programme/): vocalisation, machine listening, and the (in)security of language in a digital age, University of Edinburgh, 2023
 - Radiophrenia, Centre for Contemporary Arts Glasgow, 2023
 
 ## Media

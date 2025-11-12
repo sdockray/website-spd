@@ -7,6 +7,7 @@ parent: ""
 tags:
   - quasi-institution
   - study
+  - library
 aliases:
 ---
 

@@ -8,6 +8,8 @@ tags:
   - long-term-research
   - writing
 aliases:
+credit:
+format: Thesis
 ---
 ## Download
 - [PDF from repository](https://minerva-access.unimelb.edu.au/bitstreams/4e908e0c-889e-52fc-aa9c-7814361ec0fe/download)

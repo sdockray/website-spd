@@ -1,7 +1,7 @@
 # Quasi-institutions
 
 !!! note ""
-	See also: [[studies/quasi-architecture.md|Quasi-architecture]]
+	See also: [[studies/quasi-architecture|Quasi-architecture]]
 
 - [[quasi-institutions/machine-listening|Machine Listening]] (2020-)
 - [[studies/performing-algorithms-automation-and-accident|Performing Algorithms: Automation and Accident]] (2014-2019)

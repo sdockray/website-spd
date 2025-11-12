@@ -1,8 +1,11 @@
 # Studies
 
-Studies are focused investigations that take diverse material forms—from essays and software to sculptures, performances, and recorded works—each pursuing distinct lines of inquiry through research-based practice. These works often exist in multiple iterations or drafts, following an experimental approach that treats each medium as a method of thinking. Whether taking their shape as installations, writings, or sound pieces, each study represents a committed exploration of particular questions, concepts, or phenomena encountered through sustained engagement with specific materials and histories. They are listed 7 year cycles:
+## Overview
 
-## 2020-2026
+Studies are focused investigations that take diverse material forms—from essays and software to sculptures, performances, and recorded works—each accumulating through research-based practice. These works often exist in multiple iterations or drafts, following an experimental approach that treats its medium as a method of thinking. Whether taking their shape as installations, writings, or sound pieces, each study represents a committed, speculative exploration of particular questions, concepts, or phenomena encountered through engagement with specific materials and histories. They are listed 7 year cycles.
+
+## 7 year cycles
+### 2020-2026
 - Here is a dataset, 2025
 - [[studies/55-falls-ambient-assisted-living|55 Falls / Ambient Assisted Living]], 2025
 - [[studies/the-politics-of-falling|The Politics of Falling]], 2025
@@ -21,12 +24,12 @@ Studies are focused investigations that take diverse material forms—from essay
 - [[studies/making-publics|Making Publics]], 2021
 - [[Listening to the Diagnostic Ear]], 2020
 
-## 2013-2019
+### 2013-2019
 - [[studies/performing-algorithms-automation-and-accident|Performing Algorithms: Automation and Accident]], 2019
 - [[studies/automation-takes-control|Automation Takes Control]], 2019
 - [[Last Pages]], 2019
 - Patent Futures, 2019
-- README.md, 2018
+- [[studies/readme|README.md]], 2018
 - [[studies/learning-from-youtube|Learning from YouTube]], 2018
 - [[studies/always-learning|Always Learning]], 2018
 - [[studies/ontology|Ontology]], 2018
@@ -45,7 +48,7 @@ Studies are focused investigations that take diverse material forms—from essay
 - Openings and Closings, 2013
 - [[studies/fieldnotes-from-the-cloud|Fieldnotes from the Cloud]], 2013
 
-## 2006-2012
+### 2006-2012
 - The External Program (essay), 2012
 - External Program (program), 2012
 - Logical Conclusions, 2012
@@ -56,11 +59,11 @@ Studies are focused investigations that take diverse material forms—from essay
 - Facebook Suicide (Bomb) Manifesto, 2010
 - [[studies/aaaarg-library|AAAARG Library]], 2010
 - The Scan and the Export, 2010
-- [[studies/quasi-architecture.md|Quasi-architecture]]
+- [[studies/quasi-architecture|Quasi-architecture]]
 - [[studies/social-studies|Social Studies]]
 - Fundraising Show, 2007
 
-## 1999-2005
+### 1999-2005
 - Blocking All Lanes, 2005
 - Applause Collection, 2005
 - Traffic Diagrams, 2004
@@ -74,3 +77,4 @@ Studies are focused investigations that take diverse material forms—from essay
 - Simetery, 2001
 - On the Postmortem, 2001
 - Containment, 1999
+
