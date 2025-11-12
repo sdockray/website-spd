@@ -29,4 +29,5 @@ The songbook is a media technology. Like all songbooks, this one is open-ended. 
 
 ## Presentations
 
-- [SOFT CENTRE](https://www.softcentre.com.au): SUPERMODEL presented as part of [Now or Never Festival](https://nowornever.melbourne.vic.gov.au), 31 August 2025, Victorian Trades Hall, Naarm/Melbourne.
+- [SOFT CENTRE](https://www.softcentre.com.au): SUPERMODEL presented as part of [Now or Never Festival](https://nowornever.melbourne.vic.gov.au), 31 August 2024, Victorian Trades Hall, Naarm/Melbourne.
+- Tracks from Songbook: 5-X, [Futile Futures](https://www.civicartbureau.com/projects/futile-futures/), 15 October 2024, Civic Art Bureau, Canberra

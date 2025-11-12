@@ -61,6 +61,7 @@ In sum, *Environments 12* is deeply perplexing, beautifully garish, and an unbri
 
 ## Presentations
 
+- Environments 12 LP launch, [La Générale](https://www.lagenerale.fr/fr/locations), Paris, 19 June 2025
 - Environments 12 LP launch, [Earthly Futures Studio, Montreuil, Paris](https://events.humanitix.com/host/earthly-futures-studio), 18 June 2025
 - _Environments 12_ LP launch, [After 8 Books](https://after8books.com/events/), Paris, 17 June 2025
 - _Environments 12_ LP launch, [Q-O2, Brussels](https://www.q-o2.be/en/event/machine-listening-environments-12-lp-launch-futura-resistenza/), presented by Futura Resistenza, 16 June 2025

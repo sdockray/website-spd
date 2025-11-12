@@ -14,7 +14,7 @@ format:
 
 ## Context
 
-> This was a collectively written and performed text for  _Future Tense: Alternative Arts and Economies in the University: 4th annual UCIRA State of the Arts Conference._ University of California, San Diego. November 18-21. San Diego, USA. It followed on from ongoing discussions at The Public School and from the itinerant seminar of the same name in Berlin a few months earlier, which Caleb Waldorf, Fiona Whitton, and I co-organized. A condensed and edited version was later published in the journal MENT Volume 1.
+> This was a collectively written and performed text for _Future Tense: Alternative Arts and Economies in the University: 4th annual UCIRA State of the Arts Conference._ University of California, San Diego. November 18-21. San Diego, USA. It followed on from ongoing discussions at The Public School and from the itinerant seminar of the same name in Berlin a few months earlier, which Caleb Waldorf, Fiona Whitton, and I co-organized. A condensed and edited version was later published in the journal MENT Volume 1.
 
 ## Download
 
@@ -269,3 +269,8 @@ Remove any state or private oversight of the university's activities.
 Reject any funds and related requirements that come from applied research. 
 
 We should burn our degrees.
+
+## Publication
+- _Future Tense: Alternative Arts and Economies in the University: 4th annual UCIRA State of the Arts Conference._ University of California, San Diego. November 18-21, 2010. San Diego
+- MENT Volume 1
+- _Living to Learn | Art & Education for the Common Good_, Inventory Press & Institute for Contemporary Art at Virginia Commonwealth University, 2026

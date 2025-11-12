@@ -7,6 +7,8 @@
 	- [AAAARG.ORG](quasi-institutions/aaaarg-org.md)
 	- [Telic Arts Exchange](quasi-institutions/telic-arts-exchange.md)
 - [Studies](studies/index.md)
+	- studies/*.md
+<!--
 	- [The Politics of Falling](studies/the-politics-of-falling.md)
 	- [55 Falls / Ambient Assisted Living](studies/55-falls-ambient-assisted-living.md)
 	- [Voyce Walker](studies/voyce-walker.md)
@@ -32,4 +34,5 @@
 	- [AAAARG Library](studies/aaaarg-library.md)
 	- [Quasi-architecture](studies/quasi-architecture.md)
 	- [Social Studies](studies/social-studies.md)
-	- studies/*.md
+	- [Studies](studies/index.md)
+-->

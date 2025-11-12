@@ -49,6 +49,7 @@ Read the _Voyce Walkr_ essay in full and listen to excerpts [here](https://ncm.o
 
 - [_Signal to Noise,_ 12 April - 14 September 2025, National Communication Museum (NCM), Melbourne](https://ncm.org.au/exhibitions/signal-to-noise).
 - [_Silicon Forest: Understories of Trees and Data,_ 18 April - 21 June, PRAx Oregon, US.](https://www.e-flux.com/announcements/664336/futurefarmerssilicon-forest/)
+- Voyce Walker workshop, 9 July 2025, [AUSSTS: Signals and Noises](https://aussts.org/aussts-2025/draft-programme-and-conference-information/), National Communication Museum
 
 ## Reviews
 

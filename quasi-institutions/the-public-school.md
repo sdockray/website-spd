@@ -14,4 +14,4 @@ aliases:
 ## Words
 
 - [[fragments/the-public-school-interview-david-elliott|Interview with Sean Dockray / The Public School]] - interview by David Elliott, 2008
-- [[fragments/the-public-school-interview-sam-thorne|Interview in Schools]] - interview by Sam Thorne, 2015
+- [[fragments/the-public-school-interview-sam-thorne|Interview in 'School: A Recent History of Self-Organized Art Education']] - interview by Sam Thorne, 2015

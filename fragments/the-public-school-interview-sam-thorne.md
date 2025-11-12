@@ -1,5 +1,5 @@
 ---
-title: Interview in Schools
+title: "Interview in 'School: A Recent History of Self-Organized Art Education'"
 type: ""
 date: 2025-07-04
 display_date: "2015"
@@ -7,8 +7,8 @@ parent: "[[quasi-institutions/the-public-school|The Public School]]"
 tags:
   - study
   - interview
-aliases: 
-credit: 
+aliases:
+credit:
 format:
 ---
 ## Context
