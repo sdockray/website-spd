@@ -39,6 +39,7 @@ Studies are focused investigations that take diverse material forms—from essay
 - Chorus, 2018
 - [[studies/fake-news|Fake news, artificial intelligence and data visualisation]], 2017
 - [[studies/ai-commune-essay|AI-Commune (essay)]], 2017
+- [[studies/dat-library|Dat Library]], 2017
 - [[studies/melting-points|Melting Points]], 2015
 - [[studies/expanded-essay|Expanded Essay]], 2015
 - Real Estate Survey, 2015

@@ -17,6 +17,11 @@ format:
 
 _Hyperreadings_ was an ongoing research project into the history, present, and future of the syllabus and readings lists more generally, which are aesthetic objects that both organise and produce knowledge. The research flows between critical writing; an open source, peer-to-peer application for collaborating on, sharing, and archiving reading lists; and the activation of the software through community-based archiving projects and in the context of exhibitions.
 
+## See also
+
+- [[studies/dat-library|Dat Library]]
+- [[studies/readme|README.md]]
+
 ## Installations
 
 - "Dat Library" (Sean Dockray, Benjamin Forster) as part of _The House that Heals the Soul_, Centre for Contemporary Arts, Glasgow, Scotland, 2017
