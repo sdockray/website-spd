@@ -28,7 +28,7 @@ When no one is broadcasting, the archive plays.
 ## Installation images
 
 ![[attachments/DSC00670_Scores-lowres-1024x683.jpg]]![[attachments/DSC00846_Scores_LOW-1024x683.jpg]]
-
+![[attachments/Pasted image 20251113104540.png]]
 ## Exhibition
 
 ![[attachments/Pasted image 20251112170028.png]]

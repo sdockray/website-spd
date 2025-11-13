@@ -5,6 +5,7 @@
 - [Quasi-institutions](quasi-institutions/index.md)
 	- [Machine Listening](quasi-institutions/machine-listening.md)
 	- [AAAARG.ORG](quasi-institutions/aaaarg-org.md)
+	- [The Public School](quasi-institutions/the-public-school.md)
 	- [Telic Arts Exchange](quasi-institutions/telic-arts-exchange.md)
 - [Studies](studies/index.md)
 	- studies/*.md

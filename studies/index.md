@@ -27,8 +27,8 @@ Studies are focused investigations that take diverse material forms—from essay
 ### 2013-2019
 - [[studies/performing-algorithms-automation-and-accident|Performing Algorithms: Automation and Accident]], 2019
 - [[studies/automation-takes-control|Automation Takes Control]], 2019
-- [[Last Pages]], 2019
-- Patent Futures, 2019
+- [[studies/last-pages|Last Pages]], 2019
+- [[studies/patent-futures|Patent Futures]], 2019
 - [[studies/readme|README.md]], 2018
 - [[studies/learning-from-youtube|Learning from YouTube]], 2018
 - [[studies/always-learning|Always Learning]], 2018
@@ -38,7 +38,7 @@ Studies are focused investigations that take diverse material forms—from essay
 - Stenographer Memorial, 2018
 - Chorus, 2018
 - [[studies/fake-news|Fake news, artificial intelligence and data visualisation]], 2017
-- AI-Commune (essay), 2017
+- [[studies/ai-commune-essay|AI-Commune (essay)]], 2017
 - [[studies/melting-points|Melting Points]], 2015
 - [[studies/expanded-essay|Expanded Essay]], 2015
 - Real Estate Survey, 2015
