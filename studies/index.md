@@ -66,6 +66,7 @@ Studies are focused investigations that take diverse material forms—from essay
 - The Scan and the Export, 2010
 - [[studies/quasi-architecture|Quasi-architecture]]
 - [[studies/social-studies|Social Studies]]
+- [[studies/synth-rocks|Synth Rocks]], 2007
 - Fundraising Show, 2007
 
 ### 1999-2005
@@ -73,10 +74,10 @@ Studies are focused investigations that take diverse material forms—from essay
 - Applause Collection, 2005
 - Traffic Diagrams, 2004
 - Churchillian, 2004
-- Ameising 2, 2003
-- Ameising 1, 2003
+- [[Ameising 2]], 2003
+- [[studies/ameising-1|Ameising 1]], 2003
 - Money, 2003
-- Untitled, 2003
+- [[studies/papertape|Papertape]], 2003
 - Kingdom of the Dolls, 2003
 - Artificial Intelligibility, 2002?
 - Simetery, 2001

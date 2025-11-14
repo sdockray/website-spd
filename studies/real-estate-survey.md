@@ -23,6 +23,8 @@ The survey was done through [a Google Form](https://docs.google.com/forms/d/e/1F
 
 ![[attachments/real-estate-survey-2.jpg]]
 
+![[attachments/Pasted image 20251114150113.png]]
+
 ## Exhibition
 
 - _Affect and Exchange._ KINGS Artist-Run, Melbourne, VIC, 2016
