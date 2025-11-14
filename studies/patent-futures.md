@@ -16,6 +16,10 @@ format: Workshop
 
 This workshop was a bit like a game. The pieces were extracted components of diagrams in big tech smart home patents. The goal was to see if it was possible to assemble these diagrammatic elements into new ways, new diagrams that broke out of their previously extractive logics. Where are there opportunities for intervention? At which point is the system locked in by its parts?
 
+![[attachments/patent-futures-text.png]]
+
+![[attachments/patent-futures.png]]
+
 ## See also
 - [[studies/automation-takes-control|Automation Takes Control]]
 - 

@@ -40,11 +40,15 @@ Studies are focused investigations that take diverse material forms—from essay
 - [[studies/fake-news|Fake news, artificial intelligence and data visualisation]], 2017
 - [[studies/ai-commune-essay|AI-Commune (essay)]], 2017
 - [[studies/dat-library|Dat Library]], 2017
+- [[studies/free-radicals|Free Radicals]], 2016
+- s2t, 2015
 - [[studies/melting-points|Melting Points]], 2015
 - [[studies/expanded-essay|Expanded Essay]], 2015
-- Real Estate Survey, 2015
+- [[studies/real-estate-survey|Real Estate Survey]], 2015
+- [[studies/real-estate-Is-our-world|Real Estate Is Our World]], 2015
 - AI COMMUNE (installation), 2015
 - [[studies/programs-and-platforms|Programs and Platforms]], 2014
+- [[studies/staging|Staging]], 2013
 - Interface, Access, Loss, 2013
 - Openings and Closings, 2013
 - [[studies/fieldnotes-from-the-cloud|Fieldnotes from the Cloud]], 2013

@@ -16,7 +16,8 @@ format: Peer to peer software
 ![[attachments/dat-library-detail.jpg]]
 
 ![[attachments/dat-library-exhibition-view.jpg]]
-
+![[attachments/samiz-dat-zine-1.jpeg]]
+![[attachments/samiz-dat-zine-2.jpeg]]
 ## See also
 
 - [[quasi-institutions/hyperreadings|HyperReadings]]
