@@ -39,6 +39,7 @@ Alan Moore speaking at "Ceci n'est pas une CAA". February 27-28, 2009 at The Pub
 ///caption
 Greywater Systems class at The Public School, 2010. Photo courtesy of Cybelle Tondu
 ///
+![[attachments/announcement.jpg]]
 ## Words
 
 - [[fragments/the-public-school-interview-david-elliott|Interview with Sean Dockray / The Public School]] - interview by David Elliott, 2008

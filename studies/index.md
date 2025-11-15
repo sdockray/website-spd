@@ -41,6 +41,7 @@ Studies are focused investigations that take diverse material forms—from essay
 - [[studies/ai-commune-essay|AI-Commune (essay)]], 2017
 - [[studies/dat-library|Dat Library]], 2017
 - [[studies/free-radicals|Free Radicals]], 2016
+- [[studies/syllabus-hub|Syllabus Hub]], 2016
 - s2t, 2015
 - [[studies/melting-points|Melting Points]], 2015
 - [[studies/expanded-essay|Expanded Essay]], 2015
@@ -61,7 +62,7 @@ Studies are focused investigations that take diverse material forms—from essay
 - [[studies/there-is-nothing-less-passive-than-the-act-of-fleeing|There is nothing less passive than the act of fleeing]], 2011
 - A Public School, 2010?
 - An Escape Act, 2010
-- Facebook Suicide (Bomb) Manifesto, 2010
+- [[studies/facebook-suicide-bomb-manifesto|Facebook Suicide (Bomb) Manifesto]], 2010
 - [[studies/aaaarg-library|AAAARG Library]], 2010
 - The Scan and the Export, 2010
 - [[studies/quasi-architecture|Quasi-architecture]]
