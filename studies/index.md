@@ -22,8 +22,8 @@ Studies are focused investigations that take diverse material forms—from essay
 - [[studies/hack-piece|Hack Piece]], 2022
 - [[post-post-work|Post-post-work]], 2021
 - [[studies/making-publics|Making Publics]], 2021
-- [[Listening to the Diagnostic Ear]], 2020
-- [[Assisted Listening]], 2020-
+- [[studies/listening-to-the-diagnostic-ear|Listening to the Diagnostic Ear]], 2020
+- [[studies/assisted-listening|Assisted Listening]], 2020-
 
 ### 2013-2019
 - [[studies/performing-algorithms-automation-and-accident|Performing Algorithms: Automation and Accident]], 2019
@@ -76,7 +76,7 @@ Studies are focused investigations that take diverse material forms—from essay
 - Applause Collection, 2005
 - Traffic Diagrams, 2004
 - Churchillian, 2004
-- [[Ameising 2]], 2003
+- [[studies/ameising-2|Ameising 2]], 2003
 - [[studies/ameising-1|Ameising 1]], 2003
 - Money, 2003
 - [[studies/papertape|Papertape]], 2003

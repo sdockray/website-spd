@@ -15,4 +15,4 @@ format: Single-channel video
 
 ## See also
 
-- [[studies/Ameising 2|Ameising 2]]
+- [[studies/ameising-2|Ameising 2]]
