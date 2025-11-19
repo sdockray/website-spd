@@ -23,6 +23,7 @@ Studies are focused investigations that take diverse material forms—from essay
 - [[post-post-work|Post-post-work]], 2021
 - [[studies/making-publics|Making Publics]], 2021
 - [[Listening to the Diagnostic Ear]], 2020
+- [[Assisted Listening]], 2020-
 
 ### 2013-2019
 - [[studies/performing-algorithms-automation-and-accident|Performing Algorithms: Automation and Accident]], 2019
